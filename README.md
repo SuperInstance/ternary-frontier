@@ -88,3 +88,11 @@ Part of the SuperInstance ternary crate family. Relates to:
 ## License
 
 MIT
+
+## See Also
+- **ternary-navigator** — related
+- **ternary-observatory** — related
+- **ternary-compass** — related
+- **ternary-voyage** — related
+- **ternary-beacon** — related
+
